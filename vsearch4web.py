@@ -41,5 +41,5 @@ def do_search() -> str:
 
 
 # Run the Flask application with debug mode enabled on port 5005
-if __name__ == "__main__":
-    app.run(debug=True, port=5005)
+# if __name__ == "__main__":
+#     app.run()
