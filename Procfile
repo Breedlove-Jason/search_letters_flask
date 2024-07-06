@@ -1,1 +1,2 @@
-web: python vsearch.py
+web: gunicorn app:app
+
